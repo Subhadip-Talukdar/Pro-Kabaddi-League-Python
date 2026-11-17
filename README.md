@@ -1,4 +1,4 @@
-# 11 · Pro Kabaddi League Analysis
+# Pro Kabaddi League Analysis
 
 **Module:** Statistics and EDA (Python)  **Dataset:** [kabaddiPy](https://github.com/kabaddiPy/kabaddiPy), compiled official PKL stats for Seasons 1–10 (2014 – Mar 2024)  **Column profile:** [DATA_PROFILE.md](DATA_PROFILE.md)
 
